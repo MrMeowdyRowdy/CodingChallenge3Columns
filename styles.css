@@ -96,11 +96,11 @@ body {
     cursor: pointer;
     text-align: center;
     display: inline-block;
-    padding: 14px;
-    width: 146px;
-    border-radius: 25px;
+    padding: 15px;
+    width: 147px;
+    border-radius: 20px;
     outline: none;
-    border: 2px solid var(--light-gray);
+    border: 3px solid var(--light-gray);
     font-family: inherit;
     transition: all 0.2s ease-in-out;
     bottom: 42px;
